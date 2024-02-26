@@ -36,3 +36,4 @@ app.delete("/:shortId",async(req, res) => {
 });
 
 app.listen(port, () => console.log(`Server is run on port:${port}`));
+
